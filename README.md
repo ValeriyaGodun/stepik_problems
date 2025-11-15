@@ -15,6 +15,7 @@
 - Возможность начать новую игру без перезапуска программы.
 
 **Пример работы.**
+
 <img width="636" height="553" alt="image" src="https://github.com/user-attachments/assets/0627f476-7a21-4963-8ad3-5075cf9d8b4e" />
 
 
@@ -27,6 +28,7 @@
 - Нейтральная тональность формулировок.
 
 **Пример работы.**
+
 <img width="556" height="376" alt="image" src="https://github.com/user-attachments/assets/2104185c-f9ce-4332-8c08-844fbc7d6ec9" />
 
 
@@ -40,6 +42,7 @@
 - Генерация выполняется с использованием `random.choice`.
 
 **Пример работы.**
+
 Выбор параметров:
 
 <img width="664" height="283" alt="image" src="https://github.com/user-attachments/assets/8cf29e0e-64be-44d4-8ed6-f0e56fb56e2f" />
@@ -60,6 +63,7 @@
 - Сохранение пробелов, цифр и знаков препинания без изменений.
 
 **Пример работы.**
+
 Выбор параметров:
 
 <img width="934" height="164" alt="image" src="https://github.com/user-attachments/assets/b7efc97b-65c0-4540-9610-0a3ef9bcf79e" />
@@ -79,5 +83,6 @@
 - Возможность повторного запуска игры без перезапуска сценария.
 
 **Пример работы.**
+
 <img width="464" height="619" alt="image" src="https://github.com/user-attachments/assets/e0dc884e-8d33-4a41-9da6-b7cb3bf89a71" />
 
