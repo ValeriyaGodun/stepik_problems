@@ -14,6 +14,7 @@
 - Подсказки «больше/меньше» и учёт количества попыток.
 - Возможность начать новую игру без перезапуска программы.
 
+
 <img width="636" height="553" alt="image" src="https://github.com/user-attachments/assets/0627f476-7a21-4963-8ad3-5075cf9d8b4e" />
 
 
@@ -24,6 +25,7 @@
 - Фиксированный набор ответов, соответствующий классической игрушке Magic 8 Ball.
 - Поддержка повторных вопросов в рамках одной сессии.
 - Нейтральная тональность формулировок.
+
 
 <img width="556" height="376" alt="image" src="https://github.com/user-attachments/assets/2104185c-f9ce-4332-8c08-844fbc7d6ec9" />
 
@@ -38,10 +40,13 @@
 - Генерация выполняется с использованием `random.choice`.
 
 Выбор параметров:
+
 <img width="664" height="283" alt="image" src="https://github.com/user-attachments/assets/8cf29e0e-64be-44d4-8ed6-f0e56fb56e2f" />
 
 Сгенерированные пароли:
+
 <img width="163" height="66" alt="image" src="https://github.com/user-attachments/assets/985adc6d-6cba-4c83-a070-4e211612082f" />
+
 
 
 ## 4. Шифр Цезаря
@@ -54,11 +59,13 @@
 - Сохранение пробелов, цифр и знаков препинания без изменений.
 
 Выбор параметров:
+
 <img width="934" height="164" alt="image" src="https://github.com/user-attachments/assets/b7efc97b-65c0-4540-9610-0a3ef9bcf79e" />
 
 Результат кодирования:
 
-Результат декодирования:
+<img width="395" height="25" alt="image" src="https://github.com/user-attachments/assets/62051668-3cb9-494d-9ae4-8e41beb15e1c" />
+
 
 ## 5. Угадайка слов (виселица)
 **Назначение.** Реализация классической игры «Виселица» с заранее заданным словарём.
@@ -69,4 +76,5 @@
 - Пошаговое открытие букв и завершение игры при победе или исчерпании попыток.
 - Возможность повторного запуска игры без перезапуска сценария.
 
-!КАРТИНКА ПРИМЕР РАБОТЫ
+<img width="464" height="619" alt="image" src="https://github.com/user-attachments/assets/e0dc884e-8d33-4a41-9da6-b7cb3bf89a71" />
+
